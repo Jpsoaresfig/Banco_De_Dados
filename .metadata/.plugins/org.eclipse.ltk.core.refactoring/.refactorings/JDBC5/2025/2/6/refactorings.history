@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;db&apos; to &apos;Project_dao_JDBC&apos;&#x0D;&#x0A;- Original project: &apos;JDBC5&apos;&#x0D;&#x0A;- Destination element: &apos;Project_dao_JDBC&apos;&#x0D;&#x0A;- Original element: &apos;JDBC5/src/db&apos;" description="Copy package" element1="/src&lt;db" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1738620009684" target="/Project_dao_JDBC" version="1.0"/>
+</session>
